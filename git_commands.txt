@@ -10,3 +10,4 @@ Git remote commands...
 # git remote -v (to check whether there is a remote connection)
 # git push origin master
 # git pull origin master
+# git clone (url)
